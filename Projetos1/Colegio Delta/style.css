@@ -39,7 +39,7 @@ nav{
 
 .logo{
     display: block;
-    width: 14%;
+    width: 15%;
     margin: 5px auto 5px auto;
 }
 
@@ -51,7 +51,7 @@ nav div p{
     display: inline-block;
     padding: 7px;
     border-radius: 5px;
-    margin: 10px 20px 20px 0;
+    margin: 10px 8px 20px 0;
 }
 
 /* MAIN */
@@ -98,18 +98,18 @@ main hr{
 main h2{
     color: black;
     font-family: 'Waiting for the Sunrise', cursive;
-    margin: 0 0 5px 30px;
+    margin: 0 10px 5px 30px;
 }
 
 main p{
     color: black;
     font-family: 'Changa One', cursive;
-    margin: 20px 50px;
+    margin: 20px 25px;
     text-indent: 10px;
 }
 
 main li{
-    margin: 10px 0 0 55px;
+    margin: 10px 10px 0 45px;
     font-family: 'Changa One', cursive;
 }
 
@@ -128,7 +128,7 @@ main ul{
 
 .imagesclass{
     width: 28%;
-    margin: 12px 2.58%;
+    margin: 12px 2.28%;
     border-radius: 10px;
 }
 

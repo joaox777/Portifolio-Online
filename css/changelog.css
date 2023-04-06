@@ -93,7 +93,7 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 10px;
-    top: 298px;
+    top: 50.5px;
     width: auto;
     height: 100%;
     margin:  0 -8px -7px -8px;
@@ -101,7 +101,7 @@ footer {
   }
   
   footer p{
-    color: var(--cor5);
+    color: var(--cor4);
     margin: 15px 10px 10px 10px;
     font-family: 'Share Tech Mono', monospace;
   }
