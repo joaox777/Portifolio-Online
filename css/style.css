@@ -143,7 +143,7 @@ article p{
 .textoskills{
   color: white;
     text-align: center;
-    margin: 30px auto 15px auto;
+    margin: 35px auto 20px auto;
     padding-top: 10px;
 }
 
@@ -204,7 +204,7 @@ html ::-webkit-scrollbar{
 }
 
 html ::-webkit-scrollbar-thumb{
-  background-color: var(--cor5);
+  background-color: var(--cor4);
   border-radius: 10px;
   width: 5px;
 }
@@ -220,7 +220,7 @@ html ::-webkit-scrollbar-track{
 footer {
   background-color: black;
   position: relative;
-  display: inline-flex;
+  display: flex;
   justify-content: space-between;
   bottom: 0;
   padding: 10px;
