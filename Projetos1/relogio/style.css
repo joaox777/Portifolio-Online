@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background: linear-gradient(55deg, rgba(0,0,0,1) 0%, rgba(121,0,142,1) 83%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-y: hidden;
+}
+
+.relogio{
+    background-color: transparent;
+    display: flex;
+    width: 600px;
+    height: 250px;
+    margin: 19%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
+    justify-content: space-around;
+}
+
+.relogio div{
+    background-color: white;
+    height: 200px;
+    width: 150px;
+    margin: 25px 0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* definindo style para os itens de hora e texto de hora */
+
+#horas , #minutos , #segundos{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#time{
+    font-weight: bold;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+
+
+
