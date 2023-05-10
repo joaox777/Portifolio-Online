@@ -52,11 +52,21 @@ main h3{
 main p{
     margin: 0 20px;
     text-indent: 20px;
+
+}
+
+main p , li{
+    margin-right:20% ;
+    line-height: 20px;
 }
 
 main ul li{
     margin: 10px 10px 5px 10px;
     text-indent: 10px;
+}
+
+ol{
+    list-style-type: square;
 }
 
 a{
@@ -66,6 +76,7 @@ a{
 span{
     background-color: var(--cor2);
     color: white;
+    padding: 3px;
 }
 
 /* barra de rolagem */
